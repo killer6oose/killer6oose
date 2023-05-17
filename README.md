@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hey there! I'm Andrew
 
-<!--
-**killer6oose/killer6oose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Consultant, Programmer, Developer
 
-Here are some ideas to get you started:
+📧 andrew@thehattons.co | 📞 +1 502-235-6748
+🌐 Website: [https://cronotech.us](https://cronotech.us)
+💼 Portfolio: [https://andrewhatton.com](https://andrewhatton.com)
+🐙 GitHub: [https://github.com/killer6oose](https://github.com/killer6oose)
+🌐 [Pack 765 Website](https://pack765.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+![MySQL](https://img.shields.io/badge/MySQL-85%25%20skilled-blue)
+![PHP](https://img.shields.io/badge/PHP-75%25%20skilled-purple)
+![HTML](https://img.shields.io/badge/HTML-100%25%20skilled-orange)
+![API](https://img.shields.io/badge/API-85%25%20skilled-green)
+![Linux](https://img.shields.io/badge/Linux-90%25%20skilled-yellow)
