@@ -1,6 +1,6 @@
 # Hey there! I'm Andrew
 
-Consultant, Programmer, Developer
+Consultant, Programmer, Developer, Full Stack Developer, LAMP Developer
 
 📧 andrew@thehattons.co | 📞 +1 502-235-6748  
 🌐 Website: [https://cronotech.us](https://cronotech.us)  
