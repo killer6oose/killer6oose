@@ -6,7 +6,7 @@ Consultant, Programmer, Developer, Full Stack Developer, LAMP Developer
 🌐 Website: [https://cronotech.us](https://cronotech.us)  
 💼 Portfolio: [https://andrewhatton.com](https://andrewhatton.com)  
 🐙 GitHub: [https://github.com/killer6oose](https://github.com/killer6oose)  
-🌐 [Pack 765 Website](https://pack765.com)
+🌐 Pack 765 Website: [https://pack765.com](https://pack765.com)
 
 ---
 ![MySQL](https://img.shields.io/badge/MySQL-85%25%20skilled-blue)
